@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Jerome 👋
 
-<!--
-**jeromeberg/jeromeberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ESP32. 
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**:
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Web**:
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
+**Database**:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+
+**Tools**:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Hardware**:
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+
+
+## Projects
+
+- **[minishell](https://github.com/jeromeberg/minishell)**: Shell in C inspired by Bash, handles pipes, redirections, env vars and builtin commands.
+- **[cub3D](https://github.com/jeromeberg/cub3d)**: 3D raycasting engine in C with MinilibX, inspired by Wolfenstein.
+- **[so_long](https://github.com/jeromeberg/so_long)**: Small 2D game in C built with MinilibX.
+- **[push_swap](https://github.com/jeromeberg/push_swap)**: Sorting algorithm in C using a limited set of operations.
+- **[libft](https://github.com/jeromeberg/libft)**: Reimplementation of the C standard library from scratch.
