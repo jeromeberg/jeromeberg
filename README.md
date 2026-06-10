@@ -32,7 +32,7 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 
 ## Projects
 
-- **[minishell](https://github.com/jeromeberg/minishell)**: Shell in C inspired by Bash, handles pipes, redirections, env vars and builtin commands.
+- **[minishell](https://github.com/jeromeberg/minishell)**: Shell in C inspired by Bash, handling pipes, redirections, env vars and builtin commands.
 - **[cub3D](https://github.com/jeromeberg/cub3d)**: 3D raycasting engine in C with MinilibX, inspired by Wolfenstein.
 - **[so_long](https://github.com/jeromeberg/so_long)**: Small 2D game in C built with MinilibX.
 - **[push_swap](https://github.com/jeromeberg/push_swap)**: Sorting algorithm in C using a limited set of operations.
