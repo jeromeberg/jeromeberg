@@ -8,6 +8,7 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-yellow?logo=python&logoColor=white)
 
 **Web**:
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -32,8 +33,14 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 
 ## Projects
 
+### Cursus 42
+
 - **[minishell](https://github.com/jeromeberg/minishell)**: Shell in C inspired by Bash, handling pipes, redirections, env vars and builtin commands.
 - **[cub3D](https://github.com/jeromeberg/cub3d)**: 3D raycasting engine in C with MinilibX, inspired by Wolfenstein.
 - **[so_long](https://github.com/jeromeberg/so_long)**: Small 2D game in C built with MinilibX.
 - **[push_swap](https://github.com/jeromeberg/push_swap)**: Sorting algorithm in C using a limited set of operations.
 - **[libft](https://github.com/jeromeberg/libft)**: Reimplementation of the C standard library from scratch.
+
+### Side projects
+
+- **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraping)**: Scrape and download projects from 42 intra. Summarise subjects using local AI.
