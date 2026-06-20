@@ -43,4 +43,4 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 
 ### Side projects
 
-- **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraping)**: Scrape and download projects from 42 intra. Summarise subjects using local AI.
+- **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)**: Scrape and download projects from 42 intra, summarise subjects using local AI.
