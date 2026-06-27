@@ -35,12 +35,13 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 
 ### Cursus 42
 
-- **[minishell](https://github.com/jeromeberg/minishell)**: Shell in C inspired by Bash, handling pipes, redirections, env vars and builtin commands.
-- **[cub3D](https://github.com/jeromeberg/cub3d)**: 3D raycasting engine in C with MinilibX, inspired by Wolfenstein.
-- **[so_long](https://github.com/jeromeberg/so_long)**: Small 2D game in C built with MinilibX.
-- **[push_swap](https://github.com/jeromeberg/push_swap)**: Sorting algorithm in C using a limited set of operations.
-- **[libft](https://github.com/jeromeberg/libft)**: Reimplementation of the C standard library from scratch.
+- **[minishell](https://github.com/jeromeberg/minishell)** – Shell in C inspired by Bash, handling pipes, redirections, env vars and builtin commands.
+- **[cub3D](https://github.com/jeromeberg/cub3d)** – 3D raycasting engine in C with MinilibX, inspired by Wolfenstein.
+- **[so_long](https://github.com/jeromeberg/so_long)** – Small 2D game in C built with MinilibX.
+- **[push_swap](https://github.com/jeromeberg/push_swap)** – Sorting algorithm in C using a limited set of operations.
+- **[libft](https://github.com/jeromeberg/libft)** – Reimplementation of the C standard library from scratch.
 
 ### Side projects
 
-- **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)**: Scrape and download subjects from 42 intra, summarise and extract data into a table.
+- **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)** – Scrape and download subjects from 42intra, summarise using AI and export into a table.
+- **[youtube-playlists-mcp](https://github.com/jeromeberg/youtube-playlists-mcp)** – MCP (Model Context Protocol) server to manage YouTube playlists.
