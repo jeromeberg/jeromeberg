@@ -43,5 +43,7 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 
 ### Side projects
 
+- **[paper-psp](https://github.com/jeromeberg/paper-psp)** – Paper.io clone for PSP, built in C with PSPSDK and SDL2.
+- **[awesome-psp](https://github.com/jeromeberg/awesome-psp)** – Curated list of modding and development resources for PSP.
 - **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)** – Scrape and download subjects from 42intra, summarise using AI and export into a table.
 - **[youtube-playlists-mcp](https://github.com/jeromeberg/youtube-playlists-mcp)** – MCP (Model Context Protocol) server to manage YouTube playlists.
