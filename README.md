@@ -15,6 +15,7 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-grey?style=flat&logo=tailwind-css&logoColor=38B2AC)
 
 **Database**:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -43,6 +44,7 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 
 ### Side projects
 
+- **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie/TV watchlist app, built with React, NestJS, PostgreSQL.
 - **[paper-psp](https://github.com/jeromeberg/paper-psp)** – Paper.io clone for PSP, built in C with PSPSDK and SDL2.
 - **[awesome-psp](https://github.com/jeromeberg/awesome-psp)** – Curated list of modding and development resources for PSP.
 - **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)** – Scrape and download subjects from 42intra, summarise using AI and export into a table.
