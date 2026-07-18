@@ -45,7 +45,7 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 ### Side projects
 
 - **[wildfire](https://github.com/jeromeberg/wildfire)** - Near real-time map of wildfires in France. [Website](https://incendies.jebrg.com/)
-- **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie/TV watchlist app, built with React, NestJS, PostgreSQL.
+- **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie/TV watchlist app, built with React, NestJS, PostgreSQL. [Live demo](https://watched.jebrg.com/)
 - **[paper-psp](https://github.com/jeromeberg/paper-psp)** – Paper.io clone for PSP, built in C with PSPSDK and SDL2.
 - **[awesome-psp](https://github.com/jeromeberg/awesome-psp)** – Curated list of modding and development resources for PSP.
 - **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)** – Scrape and download subjects from 42intra, summarise using AI and export into a table.
