@@ -44,6 +44,7 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 
 ### Side projects
 
+- **[kinect-cloud](https://github.com/jeromeberg/kinect-cloud)** – C++ library to capture depth frames from Kinect and produce ready-to-use point clouds. 
 - **[qrdrop](https://github.com/jeromeberg/qrdrop)** – A peer-to-peer file sharing web app using WebRTC and QR codes. [Website](https://qr.jebrg.com)
 - **[wildfire](https://github.com/jeromeberg/wildfire)** - Near real-time map of wildfires in France. [Website](https://incendies.jebrg.com/)
 - **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie/TV watchlist app, built with React, NestJS, PostgreSQL. [Live demo](https://watched.jebrg.com/)
