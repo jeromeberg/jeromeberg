@@ -27,7 +27,7 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Hardware**:
+**Embedded**:
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 
@@ -47,8 +47,8 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 - **[kinect-cloud](https://github.com/jeromeberg/kinect-cloud)** – C++17 library for Kinect v1 depth capture and point cloud generation.
 - **[qrdrop](https://github.com/jeromeberg/qrdrop)** – A peer-to-peer file sharing web app using WebRTC and QR codes. [Website](https://qr.jebrg.com)
 - **[wildfire](https://github.com/jeromeberg/wildfire)** - Near real-time map of wildfires in France. [Website](https://incendies.jebrg.com/)
-- **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie/TV watchlist app, built with React, NestJS, PostgreSQL. [Live demo](https://watched.jebrg.com/)
+- **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie / TV tracker web app, built with React, NestJS, PostgreSQL. [Live demo](https://watched.jebrg.com/)
 - **[paper-psp](https://github.com/jeromeberg/paper-psp)** – Paper.io clone for PSP, built in C with PSPSDK and SDL2.
 - **[awesome-psp](https://github.com/jeromeberg/awesome-psp)** – Curated list of modding and development resources for PSP.
-- **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)** – Scrape and download subjects from 42intra, summarise using AI and export into a table.
+- **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)** – Scrape and download subjects from 42intra.
 - **[youtube-playlists-mcp](https://github.com/jeromeberg/youtube-playlists-mcp)** – MCP (Model Context Protocol) server to manage YouTube playlists.
