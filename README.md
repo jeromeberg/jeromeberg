@@ -1,6 +1,6 @@
 ## Hi, I'm Jerome 👋
 
-Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ESP32. 
+Computer science student at 42 Paris, building things with C, C++, and TypeScript. Mostly into full-stack web development and embedded, but curious about pretty much everything. I like understanding how things work and using code to solve real problems.
 
 ## Skills
 
@@ -43,13 +43,20 @@ Student at 42 Paris. I write C, C++, TypeScript and enjoy building things for ES
 - **[push_swap](https://github.com/jeromeberg/push_swap)** – Sorting algorithm in C using a limited set of operations.
 - **[libft](https://github.com/jeromeberg/libft)** – Reimplementation of the C standard library from scratch.
 
-### Side projects
+### Web
 
-- **[kinect-cloud](https://github.com/jeromeberg/kinect-cloud)** – C++17 library for Kinect v1 depth capture and point cloud generation.
+- **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie / TV tracker web app, built with React, NestJS, PostgreSQL. [Live demo](https://watched.jebrg.com/)
 - **[qrdrop](https://github.com/jeromeberg/qrdrop)** – A peer-to-peer file sharing web app using WebRTC and QR codes. [Website](https://qr.jebrg.com)
 - **[wildfire](https://github.com/jeromeberg/wildfire)** - Near real-time map of wildfires in France. [Website](https://incendies.jebrg.com/)
-- **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie / TV tracker web app, built with React, NestJS, PostgreSQL. [Live demo](https://watched.jebrg.com/)
+
+### C/C++
+
+- **[kinect-cloud](https://github.com/jeromeberg/kinect-cloud)** – C++17 library for Kinect v1 depth capture and point cloud generation.
+- **[esp32-raycaster](https://github.com/jeromeberg/esp32-raycaster)** – Tiny raycasting engine written in C++ for ESP32 and a 128x64 monochrome OLED.
 - **[paper-psp](https://github.com/jeromeberg/paper-psp)** – Paper.io clone for PSP, built in C with PSPSDK and SDL2.
+
+### Other projects
+
 - **[awesome-psp](https://github.com/jeromeberg/awesome-psp)** – Curated list of modding and development resources for PSP.
-- **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)** – Scrape and download subjects from 42intra.
+- **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)** – Scrape and download subjects from 42 intranet.
 - **[youtube-playlists-mcp](https://github.com/jeromeberg/youtube-playlists-mcp)** – MCP (Model Context Protocol) server to manage YouTube playlists.
