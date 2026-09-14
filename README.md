@@ -31,6 +31,7 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 **Embedded**:
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![PlatformIO](https://shields.io/badge/PlatformIO-E37B0D?style=flat&logo=platformio&logoColor=white)
 
 
 ## Projects
