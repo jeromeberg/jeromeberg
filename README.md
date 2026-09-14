@@ -58,5 +58,5 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 ### Other projects
 
 - **[awesome-psp](https://github.com/jeromeberg/awesome-psp)** – Curated list of modding and development resources for PSP.
-- **[42-projects-scraper](https://github.com/jeromeberg/42-projects-scraper)** – Scrape and download subjects from 42 intranet.
+- **[42-scraper](https://github.com/jeromeberg/42-scraper)** – Scrape and download subjects from 42 intranet.
 - **[youtube-playlists-mcp](https://github.com/jeromeberg/youtube-playlists-mcp)** – MCP (Model Context Protocol) server to manage YouTube playlists.
