@@ -34,7 +34,7 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 
 ## School projects
 
-- **[typerun](https://github.com/jeromeberg/ft_transcendence)** – Multiplayer real-time typing game built for the 42 group project ft_transcendence (React, NestJS).
+- **[typerun](https://github.com/jeromeberg/ft_transcendence)** – Multiplayer real-time typing game built for the 42 group project ft_transcendence (React, NestJS, PostgreSQL).
 - **[minishell](https://github.com/jeromeberg/minishell)** – Shell in C inspired by Bash, handling pipes, redirections, env vars and builtin commands.
 - **[cub3D](https://github.com/jeromeberg/cub3d)** – 3D raycasting engine in C with MinilibX, inspired by Wolfenstein.
 - **[so_long](https://github.com/jeromeberg/so_long)** – Small 2D game in C built with MinilibX.
