@@ -2,6 +2,8 @@
 
 Computer science student at 42 Paris, building things with C, C++, and TypeScript. Mostly into web dev and embedded systems, I also enjoy tinkering with hardware and devices such as Kinect, e-readers and old game consoles.
 
+📌 Currently looking for an internship. Feel free to reach out at `internship@jebrg.com`.
+
 ## Skills
 
 **Languages**:
