@@ -56,6 +56,7 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 - **[kinect-cloud](https://github.com/jeromeberg/kinect-cloud)** – C++17 library for Kinect v1 depth capture and point cloud generation.
 - **[esp32-raycaster](https://github.com/jeromeberg/esp32-raycaster)** – Tiny raycasting engine written in C++ for ESP32 and a 128x64 monochrome OLED.
 - **[paper-psp](https://github.com/jeromeberg/paper-psp)** – Paper.io clone for PSP, built in C with PSPSDK and SDL2.
+- **[kobo-remote](https://github.com/jeromeberg/kobo-remote)** – DIY page-turner Bluetooth remote for Kobo e-readers, built with an ESP32.
 
 ### Other projects
 
