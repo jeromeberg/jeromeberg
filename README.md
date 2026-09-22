@@ -48,7 +48,7 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 ### Web
 
 - **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie / TV tracker web app, built with React, NestJS, PostgreSQL. [Live demo](https://watched.jebrg.com/)
-- **[qrdrop](https://github.com/jeromeberg/qrdrop)** – A peer-to-peer file sharing web app using WebRTC and QR codes. [Website](https://qr.jebrg.com)
+- **[qrdrop](https://github.com/jeromeberg/qrdrop)** – Serverless P2P file sharing web app using WebRTC and pairing with QR codes. [Website](https://qr.jebrg.com)
 - **[wildfire](https://github.com/jeromeberg/wildfire)** - Near real-time map of wildfires in France. [Website](https://incendies.jebrg.com/)
 
 ### C/C++
