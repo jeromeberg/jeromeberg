@@ -1,6 +1,6 @@
 ## Hi, I'm Jerome 👋
 
-Computer science student at 42 Paris, building things with C, C++, and TypeScript. Mostly into web dev and embedded, but I also enjoy tinkering with hardware and devices such as Kinect, e-readers and old game consoles.
+Computer science student at 42 Paris, building things with C, C++, and TypeScript. Mostly into web dev and embedded systems, I also enjoy tinkering with hardware and devices such as Kinect, e-readers and old game consoles.
 
 ## Skills
 
@@ -33,10 +33,7 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 ![PlatformIO](https://shields.io/badge/PlatformIO-E37B0D?style=flat&logo=platformio&logoColor=white)
 
-
-## Projects
-
-### Cursus 42
+## School projects
 
 - **[typerun](https://github.com/jeromeberg/ft_transcendence)** – Multiplayer real-time typing game built for the 42 group project ft_transcendence (React, NestJS).
 - **[minishell](https://github.com/jeromeberg/minishell)** – Shell in C inspired by Bash, handling pipes, redirections, env vars and builtin commands.
@@ -44,6 +41,8 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 - **[so_long](https://github.com/jeromeberg/so_long)** – Small 2D game in C built with MinilibX.
 - **[push_swap](https://github.com/jeromeberg/push_swap)** – Sorting algorithm in C using a limited set of operations.
 - **[libft](https://github.com/jeromeberg/libft)** – Reimplementation of the C standard library from scratch.
+
+## Side projects
 
 ### Web
 
