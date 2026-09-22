@@ -1,6 +1,6 @@
 ## Hi, I'm Jerome 👋
 
-Computer science student at 42 Paris, building things with C, C++, and TypeScript. Mostly into full-stack web development and embedded, but curious about pretty much everything. I like understanding how things work and using code to solve real problems.
+Computer science student at 42 Paris, building things with C, C++, and TypeScript. Mostly into web dev and embedded, but I also enjoy tinkering with hardware and devices such as Kinect, e-readers and old game consoles.
 
 ## Skills
 
