@@ -54,7 +54,7 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 ### C/C++
 
 - **[kinect-cloud](https://github.com/jeromeberg/kinect-cloud)** – C++17 library for Kinect v1 depth capture and point cloud generation.
-- **[esp32-raycaster](https://github.com/jeromeberg/esp32-raycaster)** – Tiny raycasting engine written in C++ for ESP32 and a 128x64 monochrome OLED.
+- **[raycaster-esp32](https://github.com/jeromeberg/raycaster-esp32)** – Tiny raycasting engine written in C++ for ESP32 and a 128x64 monochrome OLED.
 - **[paper-psp](https://github.com/jeromeberg/paper-psp)** – Paper.io clone for PSP, built in C with PSPSDK and SDL2.
 - **[kobo-remote](https://github.com/jeromeberg/kobo-remote)** – DIY page-turner Bluetooth remote for Kobo e-readers, built with an ESP32.
 
@@ -63,3 +63,4 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 - **[awesome-psp](https://github.com/jeromeberg/awesome-psp)** – Curated list of modding and development resources for PSP.
 - **[42-scraper](https://github.com/jeromeberg/42-scraper)** – Scrape and download subjects from 42 intranet.
 - **[youtube-playlists-mcp](https://github.com/jeromeberg/youtube-playlists-mcp)** – MCP (Model Context Protocol) server to manage YouTube playlists.
+- **[lamp-esp32](https://github.com/jeromeberg/lamp-esp32)** – DIY smart Wi-Fi lamp using an ESP32 and ESPHome, with Home Assistant integration.
