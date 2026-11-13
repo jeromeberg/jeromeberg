@@ -1,6 +1,6 @@
 ## Hi, I'm Jerome 👋
 
-Computer science student at 42 Paris, building things with C, C++, and TypeScript. Mostly into web dev and embedded systems, I also enjoy tinkering with hardware and devices such as Kinect, e-readers and old game consoles.
+Computer science student at 42 Paris. Interested in web dev (React, TypeScript), embedded (C/C++), Apple (Swift), home automation, 3D printing, and tinkering with old hardware (Kindle, Kinect, PlayStation, etc.).
 
 📌 Currently looking for an internship. Feel free to reach out at `internship@jebrg.com`.
 
@@ -11,6 +11,7 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-yellow?logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)
 
 **Web**:
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -64,3 +65,7 @@ Computer science student at 42 Paris, building things with C, C++, and TypeScrip
 - **[42-scraper](https://github.com/jeromeberg/42-scraper)** – Scrape and download subjects from 42 intranet.
 - **[youtube-playlists-mcp](https://github.com/jeromeberg/youtube-playlists-mcp)** – MCP (Model Context Protocol) server to manage YouTube playlists.
 - **[lamp-esp32](https://github.com/jeromeberg/lamp-esp32)** – DIY smart Wi-Fi lamp using an ESP32 and ESPHome, with Home Assistant integration.
+
+### Apple
+
+- [HomeBar](https://homebar.jebrg.com/) – A lightweight, native macOS menu bar dashboard for Home Assistant.
