@@ -1,6 +1,6 @@
 ## Hi, I'm Jerome 👋
 
-Computer science student at 42 Paris. Interested in web dev (React, TypeScript), embedded (C/C++), Apple (Swift), home automation, 3D printing, and tinkering with old hardware (Kindle, Kinect, PlayStation, etc.).
+Computer science student at 42 Paris. Interested in web dev (React, TypeScript), embedded (C/C++), Apple (Swift), home automation, 3D printing, and tinkering with old hardware (Kindle, Kinect, PSP...). Currently learning Rust.
 
 > [!IMPORTANT]
 > 📌 Currently looking for an internship. Feel free to reach out at `internship@jebrg.com`.
@@ -41,7 +41,7 @@ Computer science student at 42 Paris. Interested in web dev (React, TypeScript),
 ## Projects
 
 > [!TIP]
-> Check out my latest app: [HomeBar](https://homebar.jebrg.com/), a native macOS menu bar dashboard for Home Assistant.
+> Check out [HomeBar](https://homebar.jebrg.com/), a native macOS menu bar dashboard for Home Assistant.
 
 ### School projects
 
