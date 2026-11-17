@@ -3,7 +3,7 @@
 Computer science student at 42 Paris. Interested in web dev (React, TypeScript), embedded (C/C++), Apple (Swift), home automation, 3D printing, and tinkering with old hardware (Kindle, Kinect, PSP...). Currently learning Rust.
 
 > [!IMPORTANT]
-> 📌 Currently looking for an internship. Feel free to reach out at `internship@jebrg.com`.
+> 📌 I'm looking for an internship. Feel free to reach out at `internship@jebrg.com`.
 
 ## Skills
 
