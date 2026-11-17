@@ -41,7 +41,7 @@ Computer science student at 42 Paris. Interested in web dev (React, TypeScript),
 ## Projects
 
 > [!TIP]
-> Check out [HomeBar](https://homebar.jebrg.com/), a native macOS menu bar dashboard for Home Assistant.
+> Check out my latest app [HomeBar](https://homebar.jebrg.com/), a native macOS menu bar dashboard for Home Assistant.
 
 ### School projects
 
