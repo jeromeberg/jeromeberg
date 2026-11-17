@@ -2,7 +2,8 @@
 
 Computer science student at 42 Paris. Interested in web dev (React, TypeScript), embedded (C/C++), Apple (Swift), home automation, 3D printing, and tinkering with old hardware (Kindle, Kinect, PlayStation, etc.).
 
-📌 Currently looking for an internship. Feel free to reach out at `internship@jebrg.com`.
+> [!IMPORTANT]
+> 📌 Currently looking for an internship. Feel free to reach out at `internship@jebrg.com`.
 
 ## Skills
 
@@ -35,7 +36,14 @@ Computer science student at 42 Paris. Interested in web dev (React, TypeScript),
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
 ![PlatformIO](https://shields.io/badge/PlatformIO-E37B0D?style=flat&logo=platformio&logoColor=white)
 
-## School projects
+---
+
+## Projects
+
+> [!TIP]
+> Check out my latest app: [HomeBar](https://homebar.jebrg.com/), a native macOS menu bar dashboard for Home Assistant.
+
+### School projects
 
 - **[typerun](https://github.com/jeromeberg/ft_transcendence)** – Multiplayer real-time typing game built for the 42 group project ft_transcendence (React, NestJS, PostgreSQL).
 - **[minishell](https://github.com/jeromeberg/minishell)** – Shell in C inspired by Bash, handling pipes, redirections, env vars and builtin commands.
@@ -44,28 +52,25 @@ Computer science student at 42 Paris. Interested in web dev (React, TypeScript),
 - **[push_swap](https://github.com/jeromeberg/push_swap)** – Sorting algorithm in C using a limited set of operations.
 - **[libft](https://github.com/jeromeberg/libft)** – Reimplementation of the C standard library from scratch.
 
-## Side projects
-
 ### Web
 
-- **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie / TV tracker web app, built with React, NestJS, PostgreSQL. [Live demo](https://watched.jebrg.com/)
+- **[watched](https://github.com/jeromeberg/watched)** – Full-stack movie / TV tracker web app, built with React, NestJS, PostgreSQL.
 - **[qrdrop](https://github.com/jeromeberg/qrdrop)** – Serverless P2P file sharing web app using WebRTC and pairing with QR codes. [Website](https://qr.jebrg.com)
 - **[wildfire](https://github.com/jeromeberg/wildfire)** - Near real-time map of wildfires in France. [Website](https://incendies.jebrg.com/)
 
-### C/C++
+### Embedded
 
-- **[kinect-cloud](https://github.com/jeromeberg/kinect-cloud)** – C++17 library for Kinect v1 depth capture and point cloud generation.
-- **[raycaster-esp32](https://github.com/jeromeberg/raycaster-esp32)** – Tiny raycasting engine written in C++ for ESP32 and a 128x64 monochrome OLED.
-- **[paper-psp](https://github.com/jeromeberg/paper-psp)** – Paper.io clone for PSP, built in C with PSPSDK and SDL2.
 - **[kobo-remote](https://github.com/jeromeberg/kobo-remote)** – DIY page-turner Bluetooth remote for Kobo e-readers, built with an ESP32.
+- **[lamp-esp32](https://github.com/jeromeberg/lamp-esp32)** – DIY smart Wi-Fi lamp using an ESP32 and ESPHome, with Home Assistant integration.
+- **[raycaster-esp32](https://github.com/jeromeberg/raycaster-esp32)** – Tiny raycasting engine written in C++ for ESP32 and a 128x64 monochrome OLED.
 
 ### Other projects
 
-- **[awesome-psp](https://github.com/jeromeberg/awesome-psp)** – Curated list of modding and development resources for PSP.
-- **[42-scraper](https://github.com/jeromeberg/42-scraper)** – Scrape and download subjects from 42 intranet.
+- **[kinect-cloud](https://github.com/jeromeberg/kinect-cloud)** – C++17 library for Kinect v1 depth capture and point cloud generation.
+- **[homebar](https://homebar.jebrg.com/)** – A lightweight, native macOS menu bar dashboard for Home Assistant.
 - **[youtube-playlists-mcp](https://github.com/jeromeberg/youtube-playlists-mcp)** – MCP (Model Context Protocol) server to manage YouTube playlists.
-- **[lamp-esp32](https://github.com/jeromeberg/lamp-esp32)** – DIY smart Wi-Fi lamp using an ESP32 and ESPHome, with Home Assistant integration.
+- **[42-scraper](https://github.com/jeromeberg/42-scraper)** – Scrape and download subjects from 42 v2/v3 intranet.
+- **[paper-psp](https://github.com/jeromeberg/paper-psp)** – Paper.io clone for PSP, built in C with PSPSDK and SDL2.
+- **[awesome-psp](https://github.com/jeromeberg/awesome-psp)** – Curated list of modding and development resources for PSP.
 
-### Apple
 
-- [HomeBar](https://homebar.jebrg.com/) – A lightweight, native macOS menu bar dashboard for Home Assistant.
